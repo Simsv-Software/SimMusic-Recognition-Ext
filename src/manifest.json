@@ -1,0 +1,8 @@
+{
+	"extName": "听歌识曲",
+	"entries":[
+		"index.js"
+	],
+	"packageId":"recognition",
+	"version":"0.0.1"
+}
